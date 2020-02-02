@@ -40,3 +40,7 @@ tests/.ducktape
 .cache
 
 docs/generated/
+
+out/
+.ipr
+.iws
